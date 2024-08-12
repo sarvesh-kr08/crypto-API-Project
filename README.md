@@ -1,5 +1,5 @@
 # Crypto API project
-This I created to show my command on Language like python and also to show that I'm fimiliar with packages like pandas and matplotlib
+In this Project I created to show my command on Language like python and also to show that I'm fimiliar with packages like pandas and matplotlib
 Step by step process of making this project is mention below:
 1. Import all the neccessary libraries like pandas, matplotlib, json, requests, etc
 2. Save the response into a variable called 'response' then convert it into json format and save it as 'data'
